@@ -1,5 +1,13 @@
 ### Hi there 👋
+My name is Han Winchester and I am currently a Computer Science student at the University of Central Florida.
+Some of the projects I am currently working on are...
+Senior Design Project. I'm working with a team to create an education VR video game for EndlessLearner.com to help students learn and study foreign languages.
+AI for Game Programming. I'm working on a wave based zombie survival shooter with a team.
 
+Projects that I've completed...
+In the Collections repo is our Myuseum database-backed Web App. I worked with a team to complete this application for a class. This app lets users create their own personal "museums" to show off their valuable items with other users.
+
+My email is han_winchester@knights.ucf.edu
 <!--
 **han-winchester/han-winchester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

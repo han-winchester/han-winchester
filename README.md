@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 <p>My name is Han Winchester and I am currently a Computer Science student at the University of Central Florida.<p>
   
 <p>Some of the projects I am currently working on are...<p>
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+-->

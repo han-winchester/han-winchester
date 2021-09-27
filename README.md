@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>My name is Han Winchester and I am currently a Computer Science student at the University of Central Florida.<p>
 <p>Some of the projects I am currently working on are...<p>
-<ul><li>Senior Design Project. I'm working with a team to create an education VR video game for EndlessLearner.com to help students learn and study foreign languages.</li>
+<ul><li>Senior Design Project. I'm working with a team to create an educational VR video game for EndlessLearner.com to help students learn and study foreign languages.</li>
   <li>AI for Game Programming. I'm working on a wave based zombie survival shooter with a team.</li></ul>
 
 <p>Projects that I've completed...</p>

@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Repositories
+<!--Repositories
 ------------
 <h3>BloodSurge</h3> is a First Person Shooter, Zombie Survival game created in Unity. 
 
@@ -46,5 +46,6 @@ Repositories
 <h3>Image Filters Homework</h3> was just a homework assignment for my Robot Vision class to program various functions and apply them to images, such as various filters, canny edge detector, and image segmentation. Programmed in Python.
 
 <h3>Group30</h3> was a small group project where we created a small database backed contacts manager app. Programmed in JavaScript.
+-->
 
 

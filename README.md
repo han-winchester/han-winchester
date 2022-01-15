@@ -41,7 +41,7 @@ Repositories
 
 <h3>Collections</h3> is a database backed website created with React that allows users to upload pictures and show off any items they want and organize them into "rooms", and "collections". Programmed with JavaScript.
 
-<h3>Compiler</h3> was just a vary basic compiler project for my Systems Software class. Programmed in C.
+<h3>Compiler</h3> I designed and implemented a basic compiler as a project for my Systems Software class. Programmed in C.
 
 <h3>Image Filters Homework</h3> was from my Computer Vision class to program various functions and apply them to images, such as various filters, canny edge detector, and image segmentation. Programmed in Python.
 

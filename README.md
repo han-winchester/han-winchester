@@ -35,17 +35,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--Repositories
+Repositories
 ------------
 <h3>BloodSurge</h3> is a First Person Shooter, Zombie Survival game created in Unity. 
 
-<h3>Collections</h3> is a database backed website that allows users to upload pictures and show off any items they want and organize them into "rooms", and "collections". Programmed with JavaScript.
+<h3>Collections</h3> is a database backed website created with React that allows users to upload pictures and show off any items they want and organize them into "rooms", and "collections". Programmed with JavaScript.
 
 <h3>Compiler</h3> was just a vary basic compiler project for my Systems Software class. Programmed in C.
 
-<h3>Image Filters Homework</h3> was just a homework assignment for my Robot Vision class to program various functions and apply them to images, such as various filters, canny edge detector, and image segmentation. Programmed in Python.
+<h3>Image Filters Homework</h3> was from my Computer Vision class to program various functions and apply them to images, such as various filters, canny edge detector, and image segmentation. Programmed in Python.
 
 <h3>Group30</h3> was a small group project where we created a small database backed contacts manager app. Programmed in JavaScript.
--->
+
 
 

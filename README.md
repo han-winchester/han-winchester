@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! 😄
+
 Repositories
 ------------
 <h3>BloodSurge</h3> is a First Person Shooter, Zombie Survival game created in Unity. 

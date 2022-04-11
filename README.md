@@ -40,6 +40,8 @@ Hello! 😄
 
 Repositories
 ------------
+<h3>Helles Kitchen</h3> is my senior capstone project. It is a VR educational video game created in Unity/C# for the Oculus Quest and Quest 2. I am currently working on this through Perforce and at the end of the project I will post the code that I worked on here! So, for now it's just a short demo showing off the game play!
+
 <h3>BloodSurge</h3> is a First Person Shooter, Zombie Survival game created in Unity. 
 
 <h3>Collections</h3> is a database backed website created with React that allows users to upload pictures and show off any items they want and organize them into "rooms", and "collections". Programmed with JavaScript.
@@ -50,7 +52,6 @@ Repositories
 
 <h3>Group30</h3> was a small group project where we created a small database backed contacts manager app. Programmed in JavaScript.
 
-<h3>Helles Kitchen</h3> is my senior capstone project. It is a VR educational video game created in Unity/C# for the Oculus Quest and Quest 2. I am currently working on this through Perforce and at the end of the project I will post the code that I worked on here! So, for now it's just a short demo showing off the game play!
 
 
 

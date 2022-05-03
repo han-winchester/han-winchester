@@ -41,7 +41,7 @@ Hello! 😄
 
 Repositories
 ------------
-<h3>Helles Kitchen</h3> is my senior capstone project. It is a VR educational video game created in Unity/C# for the Oculus Quest and Quest 2. I am currently working on this through Perforce and at the end of the project I will post the code that I worked on here! So, for now it's just a short demo showing off the game play!
+<h3>Helles Kitchen</h3> is my senior capstone project. It is a VR educational video game created in Unity/C# for the Oculus Quest and Quest 2.
 <a href="https://youtu.be/xL3P-OO68T0">Demo</a>
 
 <h3>BloodSurge</h3> is a First Person Shooter, Zombie Survival game created in Unity. 

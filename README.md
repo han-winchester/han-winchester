@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 
 Hello! 😄
 
+Contact: han_winchester@knights.ucf.edu
+
+Documentation writing samples available upon request!
+
 Repositories
 ------------
 <h3>Helles Kitchen</h3> is my senior capstone project. It is a VR educational video game created in Unity/C# for the Oculus Quest and Quest 2.

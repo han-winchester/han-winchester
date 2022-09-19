@@ -49,7 +49,7 @@ Repositories
 <a href="https://youtu.be/xL3P-OO68T0">Demo</a>
 
 <h3>BloodSurge</h3> is a First Person Shooter, Zombie Survival game created in Unity. 
-<a href="https://youtu.be/aTpDtvuMS74">Demo</a>
+<a href="https://youtu.be/KCvr-9dV2tw">Demo</a>
 
 <h3>Collections</h3> is a database backed website created with React that allows users to upload pictures and show off any items they want and organize them into "rooms", and "collections". Programmed with JavaScript.
 

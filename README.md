@@ -41,7 +41,6 @@ Hello! 😄
 
 Contact: han_winchester@knights.ucf.edu
 
-Documentation writing samples available upon request!
 
 Repositories
 ------------

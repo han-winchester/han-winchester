@@ -47,6 +47,8 @@ Repositories
 <h3>Helles Kitchen</h3> is my senior capstone project. It is a VR educational video game created in Unity/C# for the Oculus Quest and Quest 2.
 <a href="https://youtu.be/xL3P-OO68T0">Demo</a>
 
+<h3>Renderer</h3> is a current personal project to learn more about computer graphics and rendering/game engines. Using OpenGL and C++.
+
 <h3>BloodSurge</h3> is a First Person Shooter, Zombie Survival game created in Unity. 
 <a href="https://youtu.be/KCvr-9dV2tw">Demo</a>
 
@@ -58,7 +60,6 @@ Repositories
 
 <h3>Group30</h3> was a small group project where we created a small database backed contacts manager app. Programmed in JavaScript.
 
-<h3>Renderer</h3> is a current personal project to learn more about computer graphics and rendering/game engines. Using OpenGL and C++.
 
 
 

@@ -58,6 +58,8 @@ Repositories
 
 <h3>Group30</h3> was a small group project where we created a small database backed contacts manager app. Programmed in JavaScript.
 
+<h3>Renderer</h3> is a current personal project to learn more about computer graphics and rendering/game engines. Using OpenGL and C++.
+
 
 
 

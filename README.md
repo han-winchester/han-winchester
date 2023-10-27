@@ -14,7 +14,7 @@
   <li>In the Collections repo is our Myuseum database-backed Web App. I worked with a team to complete this application for a class. This app lets users create their own personal "museums" to show off their valuable items with other users.</li>
 </ul>
 
-<p>My email is han_winchester@knights.ucf.edu</p>
+<p>My email is hanwinchester6@gmail.com</p>
 
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=han-winchester)](https://github.com/han-winchester/github-readme-stats)

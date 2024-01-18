@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 Hello! 😄
 
 Contact: hanwinchester6@gmail.com
@@ -60,7 +60,7 @@ Repositories
 
 <h3>Group30</h3> was a small group project where we created a small database backed contacts manager app. Programmed in JavaScript.
 
-
+-->
 
 
 
